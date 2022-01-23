@@ -24,7 +24,6 @@ async function iniciarSesion() {
     window.location.href = 'usuarios.html'
   } else {
     alert("Las credenciales son incorrectas. Por favor intente nuevamente.");
-
   }
 
 }
